@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import Signup from './Component/Signup'
 import Signin from './Component/Signin'
 import { Route, Routes, Navigate } from 'react-router-dom'
-import Formik from './Component/Formik'
+//import Formik from './Component/Formik'
 import Dashboard from './Component/Dashboard/Dashboard'
 import Game from './Component/Game'
 
